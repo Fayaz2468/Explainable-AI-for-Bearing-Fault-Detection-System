@@ -1,3 +1,5 @@
+Link for published paper: https://ieeexplore.ieee.org/document/10183502
+
 The Project "Explainable AI for Bearing Fault Detection System" focuses on the development and implementation of a machine learning-based system for detecting and diagnosing faults in rotating machinery bearings. Here is a short summary of the project:
 
 
